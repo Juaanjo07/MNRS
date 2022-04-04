@@ -1,7 +1,4 @@
 print("-------------------------")
-
-# -------------------- Prueba de interacción con git -----------------
-
 from openseespy.opensees import *
 import os
 import shutil
